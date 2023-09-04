@@ -43,7 +43,6 @@ public class SomethingClass {
                 result += numbersMap.get(ch);
             }
         }
-        System.out.println("Funny");
         return result;
     }
 }
